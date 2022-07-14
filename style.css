@@ -1,0 +1,295 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+section {
+  height: 500px;
+
+  padding-bottom: 150px;
+}
+
+.top-banner {
+  background: rgba(0, 0, 0, 0.24) url("images/Flood_in_Sylhet.png");
+  background-size: 100%;
+
+  background-blend-mode: darken;
+  background-repeat: no-repeat;
+}
+
+#top-banner-half-width {
+  width: 70%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 10%;
+  color: aliceblue;
+}
+
+#title-white-1 {
+  text-align: center;
+  font-size: 55px;
+  margin-top: 120px;
+  margin-bottom: 0;
+}
+
+#title-white-2 {
+  text-align: center;
+  font-size: 55px;
+  margin-top: 0;
+}
+
+#text-white-body {
+  font-size: 20px;
+}
+
+.anchor-button {
+  text-decoration: none;
+  background: rgba(255, 0, 0, 0.87);
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  margin-left: 400px;
+  margin-top: 200px;
+}
+
+#top-banner-2 {
+  height: 500px;
+  padding-bottom: 150px;
+}
+
+.title-black-1 {
+  text-align: center;
+  font-size: 55px;
+  margin-top: 120px;
+  margin-bottom: 0;
+}
+
+.banner-half-width {
+  width: 70%;
+  /* float: left; */
+  margin-left: 5%;
+  padding-left: 10%;
+  color: black;
+}
+
+.donate-tk {
+  float: left;
+  margin-left: 21%;
+}
+
+.select-tk {
+  background-color: rgba(243, 243, 243, 0.767);
+  float: left;
+  margin: 40px 20px;
+  padding: 50px 30px 50px 30px;
+  color: rgb(83, 80, 80);
+  font-weight: 700;
+}
+#selected-tk {
+  background-color: rgba(248, 16, 16, 0.24);
+  float: left;
+  border: 2px solid red;
+  border-radius: 10px;
+  margin: 40px 20px;
+  padding: 50px 30px 50px 30px;
+  color: red;
+}
+
+.input {
+  width: 900px;
+  height: 50px;
+}
+
+.donate-now {
+  margin-top: 40px;
+  margin-left: 170px;
+}
+
+/* Our Donate plan */
+
+.donate-plan-food {
+  padding-top: 50px;
+  padding-left: 20px;
+  background-color: lightskyblue;
+  height: 350px;
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 180px;
+  float: left;
+}
+
+.donate-plan-shelter {
+  padding-top: 50px;
+  padding-left: 20px;
+  background-color: lightcoral;
+  height: 350px;
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 80px;
+  float: left;
+}
+
+.donate-plan-edu {
+  padding-top: 50px;
+  padding-left: 20px;
+  background-color: lightgreen;
+  height: 350px;
+  width: 300px;
+  margin-top: 50px;
+  margin-left: 80px;
+  float: left;
+}
+
+/* Contribution part-1 */
+
+.banner-contribute {
+  display: flex;
+  height: 300px;
+  width: 70%;
+  /* margin: 100px 20px; */
+  margin-top: 80px;
+  margin-left: 20px;
+}
+
+#contribute-left {
+  /* float: left; */
+  height: 100px;
+  width: 500px;
+  margin-top: 80px;
+  margin-left: 170px;
+}
+
+#title-black-3 {
+  font-size: 40px;
+  width: 500px;
+  margin: 0%;
+}
+
+#anchor-button-2 {
+  height: 40px;
+  width: 180px;
+  text-decoration: none;
+  background: rgba(255, 0, 0, 0.87);
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  padding-left: 20px;
+  padding-top: 10px;
+  margin-top: 0px;
+}
+
+#how-to-contribute {
+  text-decoration: none;
+  color: aliceblue;
+  padding: 2px 2px;
+  /* margin: 5px 5px; */
+}
+
+#contribute-img-1 {
+  display: flex;
+  float: right;
+  padding-left: 10px;
+  height: 400px;
+  width: 500px;
+}
+
+/* Contribution part-2 */
+
+.banner-contribute-2 {
+  display: flex;
+  height: 300px;
+  width: 70%;
+  /* margin: 100px 20px; */
+  margin-top: 80px;
+  margin-left: 170px;
+}
+
+#contribute-img-2 {
+  display: flex;
+  float: right;
+  padding-left: 10px;
+  height: 400px;
+  width: 500px;
+}
+
+.banner-contribute {
+  display: flex;
+  height: 300px;
+  width: 70%;
+  /* margin: 100px 20px; */
+  margin-top: 80px;
+  margin-left: 20px;
+}
+
+#contribute-right {
+  /* float: left; */
+  height: 100px;
+  width: 500px;
+  margin-top: 80px;
+  margin-left: 170px;
+}
+
+#title-black-3 {
+  font-size: 40px;
+  width: 500px;
+  margin: 0%;
+}
+
+#anchor-button-2 {
+  height: 40px;
+  width: 180px;
+  text-decoration: none;
+  background: rgba(255, 0, 0, 0.87);
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+  padding-left: 20px;
+  padding-top: 10px;
+  margin-top: 0px;
+}
+
+#how-to-contribute {
+  text-decoration: none;
+  color: aliceblue;
+  padding: 2px 2px;
+  /* margin: 5px 5px; */
+}
+
+.input-updates {
+  margin-top: 50px;
+  margin-left: 400px;
+  height: 50px;
+  width: 400px;
+}
+
+.updates {
+  display: flex;
+}
+
+.subscribe {
+  margin-top: 50px;
+  margin-left: 0px;
+  height: 55px;
+  width: 100px;
+  background-color: red;
+  color: aliceblue;
+  font-weight: 700px;
+}
+
+/* Footer part */
+
+.Footer {
+  background-color: black;
+}
+
+footer h2 {
+  padding-top: 10px;
+  text-align: center;
+  color: red;
+}
+
+footer p {
+  padding-bottom: 10px;
+  color: aliceblue;
+  text-align: center;
+}
